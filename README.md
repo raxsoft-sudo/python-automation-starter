@@ -30,6 +30,11 @@ python bot.py
 ```
 Edit `rules.yaml` to change replies, then send `/reload` to the bot.
 
+## Don't want to run it yourself?
+
+The same CSS-selector extraction is available as a hosted API (free tier: 100 requests/month):
+**Scrape to JSON on RapidAPI — https://rapidapi.com/%EA%B0%95%EC%A0%95%EC%8B%9D/api/scrape-to-json1**
+
 ## Want the full kit?
 
 This repo is 2 of 15 blocks. The **Automation Script Pack** adds:
