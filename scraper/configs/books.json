@@ -1,0 +1,10 @@
+{
+  "item": "article.product_pod",
+  "fields": {
+    "title": "h3 a@title",
+    "price": "p.price_color",
+    "availability": "p.availability",
+    "url": "h3 a@href"
+  },
+  "next": "li.next a"
+}

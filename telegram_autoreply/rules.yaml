@@ -1,0 +1,11 @@
+# Each rule: either `keywords` (whole-word, case-insensitive) or `regex`, plus `reply`.
+# The first matching rule wins.
+rules:
+  - keywords: [hello, hi, hey]
+    reply: "Hello! How can I help you today?"
+  - keywords: [price, pricing, cost]
+    reply: "Our pricing is on the website. Type 'support' to talk to a human."
+  - keywords: [support, help]
+    reply: "Support hours: Mon-Fri 09:00-17:00 UTC. Email: support@example.com"
+  - regex: "order\\s*#?\\d+"
+    reply: "Thanks! We are looking up your order and will reply shortly."

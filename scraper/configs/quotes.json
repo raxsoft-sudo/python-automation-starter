@@ -1,0 +1,10 @@
+{
+  "item": "div.quote",
+  "fields": {
+    "text": "span.text",
+    "author": "small.author",
+    "tags": "div.tags",
+    "author_url": "span a@href"
+  },
+  "next": "li.next a"
+}
