@@ -1,4 +1,6 @@
-# Python Automation Starter
+# Python Automation Starter — web scraper to CSV/JSON + Telegram bot
+
+A free, MIT-licensed **Python web scraping** starter: scrape a list page to **CSV or JSON** with **requests + BeautifulSoup** and CSS selectors, with **robots.txt** checks, rate limiting and retries built in — plus a **Telegram auto-reply bot** (python-telegram-bot v21). Includes [10 step-by-step guides](docs/README.md).
 
 Two small, working building blocks for automation jobs:
 
